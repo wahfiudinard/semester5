@@ -1,0 +1,8 @@
+{
+	"first_name":"Muhammad Wahfiudin",
+	"last_name":"Ardiansyah",
+	"age":21,
+	"address":{"street":"Jl. Kaliurang Km 10",
+				"region":"Sleman"},
+	"favorite_food":["noodle","pizza"]
+}
